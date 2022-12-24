@@ -1,4 +1,4 @@
-# Hi there, I'm Anusree 👋
+# Hey there, I'm Anusree 👋
 
 **About Me**
 
