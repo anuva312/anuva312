@@ -2,7 +2,7 @@
 
 **About Me**
 
-- 💻 I’m currently working as a Front-End Developer in GadgEon.
+- 💻 I’m currently working as a Front-End Developer in [GadgEon](https://gadgeon.com/).
 - ❤ I love JavaScript and using ReactJS framework for building my front-end projects.
 - Completed the [FrontEnd Developer Challenges](https://devchallenges.io/paths/front-end-developer) from [devchallenges.io](https://devchallenges.io/), you can find my submissions [here](https://devchallenges.io/portfolio/anuva312).
 - 📈 I am still learning a lot more stuff about *JavaScript*, *ReactJS* and other frame works and a little bit about *BackEnd Development using NodeJS* as well...
