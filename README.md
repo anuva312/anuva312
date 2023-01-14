@@ -7,17 +7,18 @@
 - Completed the [FrontEnd Developer Challenges](https://devchallenges.io/paths/front-end-developer) from [devchallenges.io](https://devchallenges.io/), you can find my submissions [here](https://devchallenges.io/portfolio/anuva312).
 - 📈 I am still learning a lot more stuff about _JavaScript_, _ReactJS_ and other frame works and a little bit about _BackEnd Development using NodeJS_ as well...
 - 🏡 I’m from _Kerala, India_.
-- 📫 You can find me on :
-  <span>
+- <div style="display:flex;gap:5px;align-items:center;align-content:center;">📫 You can find me on :
+  <div>
   <a href="https://twitter.com/this_is_anuVA">
-  <img src="https://github.com/anuva312/anuva312/blob/main/images/twitter-icon.png" alt="Twitter Logo" width="40">
+  <img src="https://github.com/anuva312/anuva312/blob/main/images/twitter-icon.png" alt="Twitter Logo" width="25">
   </a>
-  </span>
-  <span>
+  </div>
+  <div>
   <a href="https://www.linkedin.com/in/anusree-v-a-408554191/">
-  <img src="https://github.com/anuva312/anuva312/blob/main/images/linkedin-icon.png" alt="LinkedIn Logo" width="40">
+  <img src="https://github.com/anuva312/anuva312/blob/main/images/linkedin-icon.png" alt="LinkedIn Logo" width="25">
   </a>
-  </span>
+  </div>
+  </div>
 
   </br>
 
