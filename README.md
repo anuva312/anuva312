@@ -8,16 +8,16 @@
 - 📈 I am still learning a lot more stuff about _JavaScript_, _ReactJS_ and other frame works and a little bit about _BackEnd Development using NodeJS_ as well...
 - 🏡 I’m from _Kerala, India_.
 - <div style="display:flex;gap:5px;align-items:center;align-content:center;">📫 You can find me on :
-  <div>
+  <span>
   <a href="https://twitter.com/this_is_anuVA">
   <img src="https://github.com/anuva312/anuva312/blob/main/images/twitter-icon.png" alt="Twitter Logo" width="25">
   </a>
-  </div>
-  <div>
+  </span>
+  <span>
   <a href="https://www.linkedin.com/in/anusree-v-a-408554191/">
   <img src="https://github.com/anuva312/anuva312/blob/main/images/linkedin-icon.png" alt="LinkedIn Logo" width="25">
   </a>
-  </div>
+  </span>
   </div>
 
   </br>
