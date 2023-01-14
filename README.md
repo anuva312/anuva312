@@ -10,7 +10,7 @@
 - 📫 You can find me on :
   <span>
   <a href="https://twitter.com/this_is_anuVA">
-  <img src="https://github.com/anuva312/anuva312/blob/main/images/twitter-icon.png" alt="Twitter Logo" width="20">
+  <img src="https://github.com/anuva312/anuva312/blob/main/images/twitter-icon.png" alt="Twitter Logo" width="20" style="{margin-top : 5px;}">
   </a>
   </span>
   <span>
