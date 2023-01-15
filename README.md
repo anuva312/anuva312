@@ -2,8 +2,8 @@
 
 **About Me**
 
-- 💻 I’m currently working as a Front-End Developer in [GadgEon](https://gadgeon.com/).
-- ❤ I love JavaScript and using ReactJS framework for building my front-end projects.
+- 💻 I’m currently working as a Front-End Developer in [GadgEon Smart Systems](https://gadgeon.com/).
+- ❤ I love JavaScript and using ReactJS framework for building front-end projects.
 - Completed the [FrontEnd Developer Challenges](https://devchallenges.io/paths/front-end-developer) from [devchallenges.io](https://devchallenges.io/), you can find my submissions [here](https://devchallenges.io/portfolio/anuva312).
 - 📈 I am still learning a lot more stuff about _JavaScript_, _ReactJS_ and other frame works and a little bit about _BackEnd Development using NodeJS_ as well...
 - 🏡 I’m from _Kerala, India_.
@@ -25,9 +25,9 @@
 
 <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=anuva312&show_icons=true&theme=buefy)
+![](https://github-readme-stats-ruby-one.vercel.app/api?username=anuva312&show_icons=true&theme=buefy)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuva312&exclude_repo=FactOrFake,Hi-Or-Bye)
+![](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=anuva312&exclude_repo=FactOrFake,Hi-Or-Bye)
 
 </br>
 <hr>
