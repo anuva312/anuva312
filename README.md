@@ -25,7 +25,7 @@
   </br>
 
 <hr>
-
+<!-- 
 <br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=anuva312&show_icons=true&theme=buefy)
@@ -33,4 +33,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuva312&exclude_repo=FactOrFake,Hi-Or-Bye)
 
 </br>
-<hr>
+<hr> -->
