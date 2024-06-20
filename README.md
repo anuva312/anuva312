@@ -2,15 +2,15 @@
 
 **About Me**
 
-- 💻 I’m currently working as a Front-End Developer in [GadgEon Smart Systems](https://gadgeon.com/).
+- 💻 I’m currently working as a Front-End Developer in [Rocket Software](https://www.rocketsoftware.com/).
 - ❤ I love JavaScript and using ReactJS framework for building front-end projects.
 - Completed the [FrontEnd Developer Challenges](https://devchallenges.io/paths/front-end-developer) from [devchallenges.io](https://devchallenges.io/), you can find my submissions [here](https://devchallenges.io/portfolio/anuva312).
-- 📈 I am still learning a lot more stuff about _JavaScript_, _ReactJS_ and other frame works and a little bit about _BackEnd Development using NodeJS_ as well...
+<!-- - 📈 I am still learning a lot more stuff about _JavaScript_, _ReactJS_ and other frame works and a little bit about _BackEnd Development using NodeJS_ as well... -->
 
-- Check out my portfolio website [here](https://anusreeva-portfolio.onrender.com/).
+<!-- - Check out my portfolio website [here](https://anusreeva-portfolio.onrender.com/). -->
 
 - 🏡 I’m from _Kerala, India_.
-- 📫 You can find me on :
+<!-- - 📫 You can find me on :
   <span>
   <a href="https://twitter.com/this_is_anuVA">
   <img src="https://github.com/anuva312/anuva312/blob/main/images/twitter-icon.png" alt="Twitter Logo" width="25">
@@ -22,7 +22,7 @@
   </a>
   </span>
 
-  </br>
+  </br> -->
 
 <hr>
 <!-- 
